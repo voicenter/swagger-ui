@@ -1,9 +1,9 @@
 {
-  "name": "swagger-ui",
+  "name": "voicenter-swagger-ui",
   "version": "3.26.1",
   "main": "dist/swagger-ui.js",
-  "homepage": "https://github.com/swagger-api/swagger-ui",
-  "repository": "git@github.com:swagger-api/swagger-ui.git",
+  "homepage": "https://github.com/voicenter/swagger-ui",
+  "repository": "git@github.com:voicenter/swagger-ui.git",
   "contributors": [
     "(in alphabetical order)",
     "Anna Bodnia <anna.bodnia@gmail.com>",
@@ -11,7 +11,8 @@
     "Josh Ponelat <jponelat@gmail.com>",
     "Kyle Shockey <kyleshockey@gmail.com>",
     "Robert Barnwell <robert@robertismy.name>",
-    "Sahar Jafari <shr.jafari@gmail.com>"
+    "Sahar Jafari <shr.jafari@gmail.com>",
+    "Serhii Mamedov <bboyvivus@gmail.com>"
   ],
   "license": "Apache-2.0",
   "scripts": {
